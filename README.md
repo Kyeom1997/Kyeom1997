@@ -2,5 +2,5 @@
 
 <center> FrontEnd Developer를 꿈꾸는 사람입니다! 😁 </center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={Kyeom1997}&show_icons=true&theme={default})](https://github.com/{username}/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kyeom1997&show_icons=true&theme=default)](https://github.com/{username}/github-readme-stats)
 
