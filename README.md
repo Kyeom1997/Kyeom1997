@@ -5,13 +5,13 @@
 프론트엔드 개발자 역시 본인이 작성한 글을 사용자에게 보여주는 작가와 같다고 생각하기 때문에, <br/>
 어떻게 하면 보다 <b>Clean</b>하고 <b>Readable</b>한 코드를 작성할 수 있을까 고민합니다. <br/>
 <b>지속적으로 성장 가능</b>한, 수동적이지 않고 <b>능동적</b>으로 임하는 <b>같이 일하고 싶은 개발자<b/>가 되고 싶습니다. </center>
-<br>
-<br>
+<br/>
+<br/>
 
 <b> Skills </b> <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FCFCFD"/></a>&nbsp; <img src="https://img.shields.io/badge/CSS-3C82F8?style=flat-square&logo=CSS3&logoColor=FCFCFD"/></a>&nbsp; <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FCFCFD"/></a>&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FCFCFD"/></a>&nbsp;
 
-<br/><br/>
+<br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kyeom1997&show_icons=true&theme=default)](https://github.com/{username}/github-readme-stats)
 <br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyeom1997&layout=compact&theme=default&langs_count=5)
