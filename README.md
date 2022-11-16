@@ -33,6 +33,6 @@
 
 <br/>
 
-[![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId={30396})(https://slusy.io/profile/{30396}?sapzil_guide=true)
+[![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId=30396)(https://slusy.io/profile/30396?sapzil_guide=true)
 
 </div>
