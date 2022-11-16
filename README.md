@@ -31,4 +31,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyeom1997&count_bg=%236996FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br/>
+
+[![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId={gudrua1543})(https://slusy.io/profile/{gudrua1543}?sapzil_guide=true)
+
 </div>
