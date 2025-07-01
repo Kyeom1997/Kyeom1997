@@ -22,9 +22,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyeom1997&show_icons=true&theme=buefy)
 
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyeom1997)
 
 <br/>
 
